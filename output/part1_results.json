@@ -1,0 +1,14 @@
+{
+  "task": "tshirt_vs_trouser",
+  "accuracy": 0.9835714285714285,
+  "confusion_matrix": [
+    [
+      1371,
+      29
+    ],
+    [
+      17,
+      1383
+    ]
+  ]
+}
